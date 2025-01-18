@@ -1,0 +1,20 @@
+chess: A classic strategy board game for two players.
+monopoly: A popular board game where players buy, sell, and trade properties.
+scrabble: A word game where players use letter tiles to create words on a game board.
+pac-man: An iconic arcade game where the player controls a character to eat pellets and avoid ghosts.
+super mario bros: A classic platformer game featuring Mario, a plumber, on a quest to rescue Princess Peach.
+tetris: A tile-matching puzzle game where players arrange falling blocks to complete lines.
+the legend of zelda: An action-adventure game series featuring the hero Link and the princess Zelda.
+minecraft: A sandbox game allowing players to build and explore virtual worlds made up of blocks.
+fortnite: A popular battle royale game with a building mechanic and various game modes.
+overwatch: A team-based first-person shooter game with a diverse cast of characters.
+world of warcraft: A massively multiplayer online role-playing game set in the high-fantasy world of Azeroth.
+grand theft auto V: An action-adventure game with an open-world environment and a narrative-driven storyline.
+counter-strike: Global Offensive: A multiplayer first-person shooter game with team-based gameplay.
+leagueoflegends: A multiplayer online battle arena game with strategic team-based battles.
+pokemon go: An augmented reality mobile game where players capture virtual Pokemon in the real world.
+assassin's creed: An action-adventure game series following the centuries-long struggle between Assassins and Templars.
+call of duty: A first-person shooter game series known for its intense multiplayer and cinematic single-player experiences.
+fifa: A popular sports simulation video game series focused on soccer/football.
+the sims: A life simulation game series where players create and control simulated people.
+mario kart: A racing game featuring characters from the Mario franchise racing against each other.
